@@ -661,6 +661,15 @@
         
         a {
             color: inherit;
-            text-decoration: none;
+            /* text-decoration: none; */
+        }
+        
+        .project_title {
+            font-weight: bold;
+            white-space: nowrap;
+        }
+        
+        .project_subtitle {
+            color: #3f6592;
         }
         /*strong { white-space: nowrap; }*/
