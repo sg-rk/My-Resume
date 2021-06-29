@@ -421,7 +421,8 @@
             color: #fff;
             padding: 25px 0 0 14px;
             width: 215px;
-            height: auto;
+            height: 100% !important;
+            overflow-y: scroll;
         }
         
         .avatar--bg {
